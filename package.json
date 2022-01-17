@@ -1,5 +1,5 @@
 {
-  "name": "@gausma/libsignal-service-javascript",
+  "name": "@damme/libsignal-service-javascript",
   "version": "1.4.1",
   "description": "A fork of the famous @throneless/libsignal-service. This fork generalizes the use of the library.",
   "main": "src/main.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gausma/libsignal-service-javascript.git"
+    "url": "https://github.com/damme/libsignal-service-javascript.git"
   },
   "keywords": [
     "signal",
@@ -25,9 +25,9 @@
   "author": "Martin Gaus",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/gausma/libsignal-service-javascript/issues"
+    "url": "https://github.com/damme/libsignal-service-javascript/issues"
   },
-  "homepage": "https://github.com/gausma/libsignal-service-javascript#readme",
+  "homepage": "https://github.com/damme/libsignal-service-javascript#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
